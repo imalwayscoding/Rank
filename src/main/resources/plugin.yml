@@ -1,0 +1,11 @@
+name: Rank
+version: 1.0
+main: com.github.imalwayscoding.rank.RankPlugin
+api-version: 1.16
+depend:
+  - Kotlin
+
+commands:
+  rank:
+    description: set player's rank
+    usage: /<command> <set> <player> <rank>
